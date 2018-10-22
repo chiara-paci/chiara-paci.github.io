@@ -1,0 +1,7 @@
+*.pyc
+*~
+*.dia.autosave
+*.cdm3
+*.data
+*_backup.svg
+*#*
